@@ -2,3 +2,5 @@ x=23
 y=21
 print (x+y)
 print("hello")
+y=4
+print(y)
